@@ -1,2 +1,2 @@
 # python-redis
-Create Redis server using pythons
+Create Redis server using python
